@@ -1,0 +1,30 @@
+div {
+    background-color: rgb(239, 236, 188);
+}
+
+ul {
+    font-style:italic;
+}
+
+.dong1 {
+    color: blue; 
+    text-align: center;
+    margin-right: 40px;
+}
+
+.dong2 {
+    color: rgb(225, 38, 166); 
+    text-align: center;
+    margin-right: 40px;
+}
+
+.dong3 {
+    color:rgb(10, 140, 43);
+    text-align: center;
+    margin-right: 40px;
+}
+
+hr {
+    width: 200px;
+    margin: auto;
+}

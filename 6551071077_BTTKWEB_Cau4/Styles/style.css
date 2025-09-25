@@ -1,0 +1,18 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+
+li a {
+    color: blue;
+}
+
+.margin {
+    margin-right: 90%;
+}
+
+.box {
+    margin-left: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
