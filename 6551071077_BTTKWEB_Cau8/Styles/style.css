@@ -1,0 +1,29 @@
+
+.dong1 {
+    background:white;
+    color:green;
+}
+
+table {
+    border-collapse: collapse;
+    width: 600px;
+    margin: auto;
+    background-color: #e0ffe0;
+}
+
+th {
+    font-size: 20px;
+    padding: 15px;
+    text-align: center;
+}
+
+td {
+    color: green;
+    padding: 10px;
+  
+}
+
+.dongy {
+    color: red;
+    text-align: center;
+}
