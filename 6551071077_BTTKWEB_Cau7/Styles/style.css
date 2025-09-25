@@ -1,0 +1,9 @@
+.bkgr {
+    background-color: lightskyblue;
+}
+
+label {
+      display: inline-block;
+      width: 120px;
+}
+
